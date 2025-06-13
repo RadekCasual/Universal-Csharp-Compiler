@@ -12,7 +12,7 @@ This program works by compiling your C# code into an .exe file automatically.
 
 1. Will the program work right away?
 
-In most cases everything should work on the first try, but if it doesn't, install .NET Framework 4.8 or later.
+In most cases everything should work on the first try, but **if it doesn't, install .NET Framework 4.8 or later.**
 
 2. Does the program work on every operating system?
 
