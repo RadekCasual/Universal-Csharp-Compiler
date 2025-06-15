@@ -5,7 +5,7 @@ This program works by compiling your C# code into an .exe file automatically.
 # Instructions:
 1. Download the .bat file to your computer
 2. Open it
-3. Select the .cs or .cs1 file from the menu
+3. Select the .cs file from the menu
 4. Once the work is done, the program will close automatically and the finished .exe file will appear in the same location as the .bat file
 
 # FAQ:
